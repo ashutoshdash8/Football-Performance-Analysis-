@@ -1,0 +1,17 @@
+Player,Team,Position,Matches,Minutes,Goals,Assists,Shots,Shots_On_Target,Passes,Pass_Accuracy
+Rahul,Red Lions,Forward,20,1700,18,5,70,38,320,72
+Aman,Red Lions,Midfielder,20,1800,6,12,35,14,1100,88
+Vikram,Red Lions,Defender,19,1710,1,2,8,3,900,85
+Karan,Red Lions,Goalkeeper,20,1800,0,0,0,0,600,70
+Sameer,Blue Hawks,Forward,18,1500,14,7,60,30,280,70
+Dev,Blue Hawks,Midfielder,20,1750,5,9,30,12,1250,90
+Arjun,Blue Hawks,Defender,20,1800,2,1,10,4,950,87
+Nikhil,Blue Hawks,Goalkeeper,19,1710,0,0,0,0,550,68
+Rohan,Green Tigers,Forward,20,1650,11,4,55,25,260,68
+Kabir,Green Tigers,Midfielder,17,1400,3,8,28,10,980,84
+Yash,Green Tigers,Defender,20,1800,0,3,6,2,870,83
+Manav,Green Tigers,Goalkeeper,20,1800,0,0,0,0,640,72
+Ishaan,Yellow Wolves,Forward,19,1620,16,6,66,35,300,71
+Tarun,Yellow Wolves,Midfielder,20,1790,7,10,38,16,1180,89
+Pranav,Yellow Wolves,Defender,18,1620,2,2,9,4,920,86
+Harsh,Yellow Wolves,Goalkeeper,20,1800,0,0,0,0,580,69
